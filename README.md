@@ -13,7 +13,7 @@ Whether you work in an organization that uses test-driven development or in an o
 
 Download or clone this project from github and open index.html file in your browser at the end of this you will jasmine test cases you can click each test suit to test the test is runnng or not
 
-or you can click <a href="www.shadabali.me/feed-reader-testing">here</a> to open live version of this site to test tests cases
+or you can click <a href="http://shadabali.me/feed-reader-testing/">here</a> to open live version of this site to test tests cases
 ## What will I learn?
 
 You will learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
